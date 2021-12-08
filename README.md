@@ -1,6 +1,6 @@
-# Get Weather
+# Weather App
 
-<p>Weather App<br> 
+<p>Get Weather<br> 
 &nbsp&nbsp&nbsp&nbspDescription:<br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspGet the weather forecast for today, the next five days and the last five days from an easy-to-use, user-friendly app simply by scrolling through the main screen.<br>
 &nbsp&nbsp&nbsp&nbspDemo:<br>
